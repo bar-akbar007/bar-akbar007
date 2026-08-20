@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:4FC08D&height=200&section=header&text=Muhammad%20Akbar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Laravel%20%26%20Vue.js%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Sedang+Belajar+%26+Berkembang+Setiap+Hari;Laravel+Developer;Vue.js+Enthusiast;Tailwind+CSS+Lover" alt="Typing SVG" />
