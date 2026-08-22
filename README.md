@@ -1,73 +1,72 @@
+<!-- Header Waving Blue -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:38BDF8&height=120&section=header&animation=twinkling" width="100%"/>
+
 <div align="center">
 
-  <!-- Header Animated SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Halo!+Saya+Akbar+%F0%9F%90%B6;Laravel+Developer;Vue.js+Enthusiast;Tailwind+CSS+Lover;Sedang+Belajar+%26+Berkembang+Setiap+Hari" alt="Typing SVG" />
+  <!-- Terminal Style Typing SVG -->
+  <a href="https://github.com/bar-akbar007">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%3E_Hi+there,+Saya+Akbar!+%F0%9F%91%8B;%3E_Seorang+Laravel+Developer;%3E_Vue.js+%26+Tailwind+Enthusiast;%3E_Mengubah+Kopi+Menjadi+Kode...%E2%98%95" alt="Typing SVG" />
+  </a>
+  
+  <br><br>
 
-  <br />
-
-  <!-- Status Badges -->
-  <img src="https://img.shields.io/badge/Status-Sedang%20Belajar-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=bar-akbar007&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="profile views" />
+  <!-- Profile Badges -->
+  <a href="https://github.com/bar-akbar007">
+    <img src="https://komarev.com/ghpvc/?username=bar-akbar007&label=Profile%20Views&color=0284C7&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0284C7?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 
 </div>
+
+<br>
 
 ---
 
 ### 🚀 Tentang Saya
 
-* 💬 **Fokus:** Web Development (Ekosistem **Laravel** & **Vue.js**)
-* 🎨 **Desain:** Suka eksplorasi tampilan bersih dan modern memakai **Tailwind CSS**
-* 🌱 **Status:** Aktif memperdalam **JavaScript**, **REST API**, dan pengelolaan arsitektur basis data
-* ⚡ **Fun Fact:** Kode yang rapi berawal dari antarmuka yang presisi
+* 💬 **Fokus Utama:** Pengembangan Web (Ekosistem **Laravel** & **Vue.js**)
+* 🎨 **Desain Antarmuka:** Bereksperimen dengan desain modern, bersih, dan *responsive* menggunakan **Tailwind CSS**
+* 🌱 **Eksplorasi Saat Ini:** Mendalami **JavaScript**, integrasi **REST API**, dan arsitektur *database*
+* ⚡ **Fun Fact:** Baris kode yang elegan selalu berawal dari logika yang terstruktur
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-  **Frameworks & Languages**
   
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-  <br />
-
-  **Tools & Environment**
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-</div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bar-akbar007&theme=react-dark&hide_border=true" alt="Activity Graph" width="98%"/>
-</div>
-
----
-
-### 📫 Hubungi Saya
-
-<div align="center">
-
-  <a href="https://github.com/bar-akbar007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <p><strong>Frameworks & Bahasa Pemrograman</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,js,html,css&theme=dark" alt="Frameworks" />
   </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <br><br>
+  
+  <p><strong>Tools & Database</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mysql,php&theme=dark" alt="Tools" />
   </a>
 
 </div>
 
-<br />
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC08D,100:38BDF8&height=100&section=footer" width="100%"/>
+---
+
+### 📊 GitHub Analytics
+
+<!-- Stats Cards Grid -->
+<div align="center">
+
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bar-akbar007&bg_color=0D1117&color=38BDF8&line=0284C7&point=ffffff&area=true&hide_border=true&hide_title=true" width="98%" alt="Activity Graph" />
+
+</div>
+
+<br>
+
+<!-- Footer Waving Blue -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0284C7&height=120&section=footer" width="100%"/>
