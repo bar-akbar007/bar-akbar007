@@ -14,7 +14,7 @@
   <a href="https://github.com/bar-akbar007">
     <img src="https://komarev.com/ghpvc/?username=bar-akbar007&label=Profile%20Views&color=0284C7&style=for-the-badge" alt="Profile Views" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/muhammad-akbar-14126b42b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0284C7?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 
