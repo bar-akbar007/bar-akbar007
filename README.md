@@ -55,18 +55,5 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<!-- Stats Cards Grid -->
-<div align="center">
-
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bar-akbar007&bg_color=0D1117&color=38BDF8&line=0284C7&point=ffffff&area=true&hide_border=true&hide_title=true" width="98%" alt="Activity Graph" />
-
-</div>
-
-<br>
-
 <!-- Footer Waving Blue -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0284C7&height=120&section=footer" width="100%"/>
