@@ -7,16 +7,6 @@
   <a href="https://github.com/bar-akbar007">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%3E_Hi+there,+Saya+Akbar!+%F0%9F%91%8B;%3E_Seorang+Laravel+Developer;%3E_Vue.js+%26+Tailwind+Enthusiast;%3E_Mengubah+Kopi+Menjadi+Kode...%E2%98%95" alt="Typing SVG" />
   </a>
-  
-  <br><br>
-
-  <!-- Profile Badges -->
-  <a href="https://github.com/bar-akbar007">
-    <img src="https://komarev.com/ghpvc/?username=bar-akbar007&label=Profile%20Views&color=0284C7&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-akbar-14126b42b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0284C7?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
 
 </div>
 
@@ -25,6 +15,18 @@
 <!-- Welcome Banner -->
 <div align="center">
   <img src="./welcome%20my%20profile.png" width="100%" alt="Welcome to my GitHub Profile">
+</div>
+
+<br>
+
+<!-- Profile Badges -->
+<div align="center">
+  <a href="https://github.com/bar-akbar007">
+    <img src="https://komarev.com/ghpvc/?username=bar-akbar007&label=Profile%20Views&color=0284C7&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-akbar-14126b42b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0284C7?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </div>
 
 <br>
