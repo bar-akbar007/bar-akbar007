@@ -22,6 +22,13 @@
 
 <br>
 
+<!-- Welcome Banner -->
+<div align="center">
+  <img src="./welcome%20my%20profile.png" width="100%" alt="Welcome to my GitHub Profile">
+</div>
+
+<br>
+
 ---
 
 ### 🚀 Tentang Saya
