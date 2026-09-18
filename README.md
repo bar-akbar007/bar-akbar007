@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    HEADER                                   -->
+<!--                          HEADER                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:38BDF8&height=120&section=header&animation=twinkling" width="100%"/>
@@ -27,7 +27,7 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    WELCOME BANNER                           -->
+<!--                      WELCOME BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -37,7 +37,7 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    QUICK NAVIGATION                         -->
+<!--                    QUICK NAVIGATION                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -62,7 +62,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME                                 -->
+<!--                        ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### 🚀 Tentang Saya
@@ -77,7 +77,6 @@
 
 <br>
 
-<!-- Interactive About Me -->
 <details>
 <summary><b>👨‍💻 More About Me</b></summary>
 
@@ -125,7 +124,7 @@ console.log("Hello World! 🚀");
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                               -->
+<!--                       TECH STACK                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### 🛠️ Tech Stack & Tools
@@ -150,20 +149,19 @@ console.log("Hello World! 🚀");
 
 <br>
 
-<!-- Interactive Tech Details -->
 <details>
 <summary><b>📚 Tech Stack Details</b></summary>
 
 <br>
 
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | HTML, CSS, JavaScript, Vue.js, Tailwind CSS |
-| **Backend** | PHP, Laravel |
-| **Database** | MySQL |
-| **API & Testing** | REST API, Postman |
-| **Tools** | Git, GitHub, VS Code, Figma |
-| **Currently Exploring** | Authentication, API Integration, Database Architecture |
+| Category                 | Technologies                                              |
+|---------------------------|--------------------------------------------------------------|
+| **Frontend**               | HTML, CSS, JavaScript, Vue.js, Tailwind CSS                  |
+| **Backend**                | PHP, Laravel                                                  |
+| **Database**               | MySQL                                                         |
+| **API & Testing**          | REST API, Postman                                             |
+| **Tools**                  | Git, GitHub, VS Code, Figma                                   |
+| **Currently Exploring**    | Authentication, API Integration, Database Architecture       |
 
 </details>
 
@@ -172,7 +170,7 @@ console.log("Hello World! 🚀");
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                        -->
+<!--                    FEATURED PROJECTS                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### 🚀 Featured Projects
@@ -207,12 +205,12 @@ console.log("Hello World! 🚀");
 
 <br>
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🌐 **LKS Web Project** | Sistem monitoring dan penyaluran bantuan UMKM | Laravel, Vue.js, MySQL |
-| 🛒 **Digital Asset Shop** | Konsep toko aset game 2D digital | Laravel, Vue.js, Tailwind |
-| 🎨 **Portfolio Website** | Website untuk menampilkan project dan skill | HTML, CSS, JavaScript |
-| 🧪 **Learning Projects** | Berbagai project latihan pemrograman | PHP, JavaScript, Laravel |
+| Project                    | Description                                        | Technologies              |
+|------------------------------|-------------------------------------------------------|-------------------------------|
+| 🌐 **LKS Web Project**        | Sistem monitoring dan penyaluran bantuan UMKM          | Laravel, Vue.js, MySQL        |
+| 🛒 **Digital Asset Shop**     | Konsep toko aset game 2D digital                       | Laravel, Vue.js, Tailwind     |
+| 🎨 **Portfolio Website**      | Website untuk menampilkan project dan skill            | HTML, CSS, JavaScript         |
+| 🧪 **Learning Projects**      | Berbagai project latihan pemrograman                   | PHP, JavaScript, Laravel      |
 
 > 💡 Project akan terus diperbarui seiring proses belajar dan pengembangan.
 
@@ -223,7 +221,7 @@ console.log("Hello World! 🚀");
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CURRENTLY LEARNING                       -->
+<!--                   CURRENTLY LEARNING                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### 🎯 Currently Learning
@@ -239,7 +237,6 @@ console.log("Hello World! 🚀");
 
 <br>
 
-<!-- Learning Roadmap -->
 <details>
 <summary><b>🗺️ My Learning Roadmap</b></summary>
 
@@ -274,7 +271,7 @@ Full-Stack Web Development
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    DEVELOPER MINDSET                        -->
+<!--                   DEVELOPER MINDSET                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### 💭 Developer Mindset
@@ -299,7 +296,7 @@ Full-Stack Web Development
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    INTERACTIVE TERMINAL                     -->
+<!--                  INTERACTIVE TERMINAL                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### 🖥️ Terminal
@@ -333,7 +330,7 @@ Learn • Build • Debug • Repeat
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONNECT                                  -->
+<!--                        CONNECT                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### 📫 Let's Connect
@@ -343,7 +340,6 @@ Learn • Build • Debug • Repeat
   <a href="https://github.com/bar-akbar007">
     <img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-
   <a href="https://www.linkedin.com/in/muhammad-akbar-14126b42b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
@@ -353,9 +349,7 @@ Learn • Build • Debug • Repeat
 <br>
 
 <div align="center">
-
   <sub>Thanks for visiting my profile! Let's build something awesome. 🚀</sub>
-
 </div>
 
 <br>
@@ -363,7 +357,7 @@ Learn • Build • Debug • Repeat
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FOOTER                                   -->
+<!--                         FOOTER                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0284C7&height=120&section=footer" width="100%"/>
